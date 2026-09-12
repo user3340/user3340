@@ -1,7 +1,7 @@
 <h2>Hi! 🪽</h2>
 
 <p>
-  I'm an aspiring programmer with a growing interest in cybersecurity.
+  I'm a self-taught aspiring programmer with a growing interest in cybersecurity.
   I'm currently learning web development and programming, building my skills
   through hands-on projects and continuous practice.
 </p>
