@@ -1,4 +1,4 @@
-<h2>Hi! 🪽</h2>
+## Hi! 🪽
 
 <p>
   I'm a self-taught aspiring programmer with a growing interest in cybersecurity.
