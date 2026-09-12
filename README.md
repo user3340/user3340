@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  I'm especially interested in ethical hacking and offensive security,
+  I'm especially interested in ethical hacking and offensive security
   and my goal is to keep expanding my knowledge while building real-world projects.
 </p>
 
