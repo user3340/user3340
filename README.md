@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  I'm always learning, experimenting, and working toward turning my passion
+  I'm always learning, experimenting and working toward turning my passion
   for technology into a career. 💻
 </p>
 <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/ce68700f-9864-49c2-bf0f-a82d6514aec5" />
